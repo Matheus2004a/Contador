@@ -6,4 +6,4 @@ Contador que exibe os 10 primeiros e últimos números a partir do número digit
 
 # Resultado
 
-<img src="Contador - PHP.gif">
+<img src="Contador-PHP.gif">
